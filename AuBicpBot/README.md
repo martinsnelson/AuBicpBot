@@ -1,0 +1,1 @@
+#   AspNet Core 2.1, Teste Automatizado com selenium
